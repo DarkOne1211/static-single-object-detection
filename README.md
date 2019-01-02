@@ -1,0 +1,1 @@
+# static-single-object-detection

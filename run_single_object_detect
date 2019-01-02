@@ -1,0 +1,2 @@
+#! /bin/bash
+python2.7 single_object_tracker.py --image $1 --prototxt bvlc_googlenet.prototxt --model bvlc_googlenet.caffemodel --label synset_words.txt
